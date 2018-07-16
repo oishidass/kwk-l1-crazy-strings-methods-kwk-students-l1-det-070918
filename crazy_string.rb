@@ -1,5 +1,12 @@
-# write your method here
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
 
-def crazy_strings(a,b)
+<h1>My First Heading</h1>
+<p></p>
 
-end
+</body>
+</html>
